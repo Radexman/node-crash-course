@@ -1,7 +1,7 @@
 import http from 'http';
 import fs from 'fs/promises';
 import url from 'url';
-import path, { dirname } from 'path';
+import path from 'path';
 
 const PORT = 8000;
 
